@@ -1,1 +1,2 @@
 1. Isi konten pertama
+2. Baru kedua konten.txt
